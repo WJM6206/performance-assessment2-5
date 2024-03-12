@@ -1,0 +1,13 @@
+.places {
+    color: beige;
+}
+
+.places h2 {
+    font-size: 36px;
+    font-family: cursive;
+}
+
+.places p {
+    font-size: larger;
+    margin: 30px;
+}

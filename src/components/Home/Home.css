@@ -1,0 +1,14 @@
+.content-home {
+    color: beige;
+    margin-top: 40px;
+}
+
+.content-home h2 {
+    font-size: 36px;
+    font-family: cursive;
+}
+
+.content-home p {
+    font-size: larger;
+    margin: 30px;
+}

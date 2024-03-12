@@ -1,0 +1,15 @@
+.content-contact h2 {
+    font-family: cursive;
+    margin-top: 40px;
+}
+
+.content-contact p {
+    color: beige;
+    font-size: 24px;
+    margin-top: 40px;
+}
+
+.content-contact a {
+    color: beige;
+    font-size: 24px;
+}

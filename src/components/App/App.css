@@ -1,0 +1,36 @@
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  text-align: center;
+  color: beige;
+  font-family:cursive;
+  font-size: 48px;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  
+}
+
+ul.header {
+  background-color: #111;
+  padding: 0;
+}
+
+ul.header li a {
+  font-weight: bold;
+  text-decoration:none;
+  padding: 20px;
+  display: inline-block;
+  color: beige;
+  align-items: center;
+}
+
+.active {
+  background-color:darkgreen ;
+  
+}
